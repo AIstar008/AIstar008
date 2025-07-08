@@ -131,7 +131,7 @@
 ## <div align="center">📊 GitHub Analytics 📊</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar008&theme=dracula&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar008&theme=nightowl&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
@@ -164,7 +164,7 @@
 ## <div align="center">💭 Random Dev Quote 💭</div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---

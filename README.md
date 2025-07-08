@@ -1,27 +1,11 @@
 # 💫 Hi 👋, I'm Alen Thomas
 **Cloud Enthusiast | AI/ML Developer | Android Developer | Full-Stack Learner**
 
-## 🌐 Connect with Me
+[![Email](https://img.shields.io/badge/Email-alenthomas1809@gmail.com-darkgreen?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alenthomas1809@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alen%20Thomas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alen-thomas-3558bb187/) 
+[![GitHub](https://img.shields.io/badge/GitHub-AIstar008-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIstar008)
 
-<p align="center">
-  <a href="mailto:alenthomas1809@gmail.com" title="Send Email">
-    <img src="https://img.shields.io/badge/Email-Me-darkgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/alen-thomas-3558bb187/" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Alen%20Thomas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://github.com/AIstar008" title="Visit my GitHub">
-    <img src="https://img.shields.io/badge/GitHub-AIstar008-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AIstar008&label=Profile%20Views&color=4&icon=5&pretty=true" alt="Visitor Badge"/>
-  </a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=AIstar008&icon=1&color=4)](https://visitcount.itsvg.in)
 
 ---
 

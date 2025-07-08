@@ -16,32 +16,45 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF"/>
 </div>
 
-```html
-                 ╔═══════════════════════════════════════════════════════════════════╗
-                 ║                     ✨ DEVELOPER PROFILE ✨                      ║
-                 ╠═══════════════════════════════════════════════════════════════════╣
-                 ║                                                                   ║
-                 ║    💫 Name         » Alen Thomas                                 ║
-                 ║    🎯 Role         » Cloud Enthusiast • AI/ML Developer         ║
-                 ║                     Android Developer • Full-Stack Learner      ║
-                 ║    🌍 Location     » India 🇮🇳                                  ║
-                 ║    🔮 Pronouns     » He/Him                                      ║
-                 ║                                                                   ║
-                 ║    🚀 Current Focus:                                             ║
-                 ║       ◦ 🤖 Crafting ML-integrated Android experiences           ║
-                 ║       ◦ ☁️  Architecting Python APIs on cloud platforms         ║
-                 ║       ◦ 📚 Mastering Full-Stack Development & AWS Ecosystem     ║
-                 ║                                                                   ║
-                 ║    🤝 Collaboration » Open to AI/ML projects & Android tools    ║
-                 ║                                                                   ║
-                 ║    💎 Interests    » Python • Machine Learning • Android •      ║
-                 ║                     Cloud Computing • Photography               ║
-                 ║                                                                   ║
-                 ║    ⚡ Fun Fact     » "Blending tech with creativity—             ║
-                 ║                     passionate photography enthusiast 📸"       ║
-                 ║                                                                   ║
-                 ╚═══════════════════════════════════════════════════════════════════╝
-```
+## ✨ <div align="center">DEVELOPER PROFILE</div>
+
+<table align="center">
+  <tr>
+    <td><strong>💫 Name</strong></td>
+    <td>Alen Thomas</td>
+  </tr>
+  <tr>
+    <td><strong>🎯 Role</strong></td>
+    <td>Cloud Enthusiast • AI/ML Developer <br> Android Developer • Full-Stack Learner</td>
+  </tr>
+  <tr>
+    <td><strong>🌍 Location</strong></td>
+    <td>India 🇮🇳</td>
+  </tr>
+  <tr>
+    <td><strong>🚀 Current Focus</strong></td>
+    <td>
+      <ul>
+        <li>🤖 Crafting ML-integrated Android experiences</li>
+        <li>☁️ Architecting Python APIs on cloud platforms</li>
+        <li>📚 Mastering Full-Stack Development & AWS Ecosystem</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🤝 Collaboration</strong></td>
+    <td>Open to AI/ML projects & Android tools</td>
+  </tr>
+  <tr>
+    <td><strong>💎 Interests</strong></td>
+    <td>Python • Machine Learning • Android • Cloud Computing</td>
+  </tr>
+  <tr>
+    <td><strong>⚡ Fun Fact</strong></td>
+    <td><em>"Blending tech with creativity — passionate photography enthusiast 📸"</em></td>
+  </tr>
+</table>
+
 
 <div align="center">
   
@@ -118,16 +131,16 @@
 ## <div align="center">📊 GitHub Analytics 📊</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AIstar008&theme=tokyo-night&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar008&theme=dark&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIstar008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar008&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIstar008&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar008&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIstar008&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIstar008&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -135,23 +148,15 @@
 ## <div align="center">🏆 GitHub Trophies 🏆</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AIstar008&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AIstar008&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## <div align="center">🐍 Contribution Snake 🐍</div>
+<!-- Snake Game Repo View -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIstar008/AIstar008/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIstar008/AIstar008/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AIstar008/AIstar008/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <em>Note: Snake animation requires GitHub Actions setup. <a href="https://github.com/Platane/snk">Learn more here</a></em>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -216,7 +221,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIstar008&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIstar008&theme=radical" alt="Profile Summary"/>
 </div>
 
 ---

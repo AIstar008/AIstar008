@@ -16,18 +16,31 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF"/>
 </div>
 
-```yaml
-name: Alen Thomas
-role: Cloud Enthusiast | AI/ML Developer | Android Developer | Full-Stack Learner
-location: India 🇮🇳
-current_focus: 
-  - 🔭 Building ML-integrated Android apps
-  - ☁️ Deploying Python APIs on cloud platforms
-  - 📚 Mastering Full-Stack Development & AWS Advanced Services
-collaboration: Open to AI/ML projects & Android tools
-interests: [Python, Machine Learning, Android, Cloud Computing, Photography]
-pronouns: He/Him
-fun_fact: "I love mixing tech with creativity—also a photography enthusiast 📸"
+```html
+                 ╔═══════════════════════════════════════════════════════════════════╗
+                 ║                     ✨ DEVELOPER PROFILE ✨                      ║
+                 ╠═══════════════════════════════════════════════════════════════════╣
+                 ║                                                                   ║
+                 ║    💫 Name         » Alen Thomas                                 ║
+                 ║    🎯 Role         » Cloud Enthusiast • AI/ML Developer         ║
+                 ║                     Android Developer • Full-Stack Learner      ║
+                 ║    🌍 Location     » India 🇮🇳                                  ║
+                 ║    🔮 Pronouns     » He/Him                                      ║
+                 ║                                                                   ║
+                 ║    🚀 Current Focus:                                             ║
+                 ║       ◦ 🤖 Crafting ML-integrated Android experiences           ║
+                 ║       ◦ ☁️  Architecting Python APIs on cloud platforms         ║
+                 ║       ◦ 📚 Mastering Full-Stack Development & AWS Ecosystem     ║
+                 ║                                                                   ║
+                 ║    🤝 Collaboration » Open to AI/ML projects & Android tools    ║
+                 ║                                                                   ║
+                 ║    💎 Interests    » Python • Machine Learning • Android •      ║
+                 ║                     Cloud Computing • Photography               ║
+                 ║                                                                   ║
+                 ║    ⚡ Fun Fact     » "Blending tech with creativity—             ║
+                 ║                     passionate photography enthusiast 📸"       ║
+                 ║                                                                   ║
+                 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -105,16 +118,16 @@ fun_fact: "I love mixing tech with creativity—also a photography enthusiast �
 ## <div align="center">📊 GitHub Analytics 📊</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar008&custom_title=Alen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AIstar008&theme=tokyo-night&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIstar008&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIstar008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar008&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIstar008&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar008&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -130,7 +143,15 @@ fun_fact: "I love mixing tech with creativity—also a photography enthusiast �
 ## <div align="center">🐍 Contribution Snake 🐍</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AIstar008/AIstar008/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIstar008/AIstar008/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIstar008/AIstar008/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AIstar008/AIstar008/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <em>Note: Snake animation requires GitHub Actions setup. <a href="https://github.com/Platane/snk">Learn more here</a></em>
 </div>
 
 ---
@@ -143,39 +164,31 @@ fun_fact: "I love mixing tech with creativity—also a photography enthusiast �
 
 ---
 
-## <div align="center">🚀 Current Projects & Goals 🚀</div>
+## <div align="center">💡 What I'm Building 💡</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Projects GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
 </div>
 
-```python
-class AlenThomas:
-    def __init__(self):
-        self.name = "Alen Thomas"
-        self.role = "Cloud Enthusiast | AI/ML Developer"
-        self.language_spoken = ["Python", "Java", "C++", "JavaScript"]
-        self.current_focus = [
-            "🔭 ML-integrated Android apps",
-            "☁️ Python APIs on cloud platforms",
-            "📚 Full-Stack Development",
-            "🔧 AWS Advanced Services"
-        ]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
-        
-    def get_goals(self):
-        return [
-            "Master cloud-native architectures",
-            "Contribute to open-source projects",
-            "Build scalable ML solutions",
-            "Create impactful Android applications"
-        ]
-
-me = AlenThomas()
-me.say_hi()
-```
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/android-os.png" alt="Android"/>
+      <br><strong>Mobile Development</strong>
+      <br><em>Creating intelligent Android apps with ML integration</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/cloud.png" alt="Cloud"/>
+      <br><strong>Cloud Solutions</strong>
+      <br><em>Building scalable APIs and cloud-native applications</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI"/>
+      <br><strong>AI/ML Projects</strong>
+      <br><em>Developing intelligent systems and data solutions</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -198,7 +211,8 @@ me.say_hi()
 ## <div align="center">📈 Profile Stats 📈</div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AIstar008&icon=2&color=6" alt="Visit Count"/>
+  <img src="https://komarev.com/ghpvc/?username=AIstar008&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AIstar008?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 <div align="center">

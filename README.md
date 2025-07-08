@@ -131,7 +131,7 @@
 ## <div align="center">📊 GitHub Analytics 📊</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar008&theme=dark&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar008&theme=dracula&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">

@@ -1,9 +1,12 @@
 # 💫 Hi 👋, I'm Alen Thomas
 **Cloud Enthusiast | AI/ML Developer | Android Developer | Full-Stack Learner**
 
-📩 **Email Me:** alenthomas1809@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/alen-thomas-3558bb187](https://www.linkedin.com/in/alen-thomas-3558bb187/)  
-🔗 **GitHub:** [github.com/AIstar008](https://github.com/AIstar008)
+[![Email](https://img.shields.io/badge/Email-alenthomas1809@gmail.com-darkgreen?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alenthomas1809@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alen%20Thomas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alen-thomas-3558bb187/) 
+[![GitHub](https://img.shields.io/badge/GitHub-AIstar008-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIstar008)
+
+[![](https://visitcount.itsvg.in/api?id=AIstar008&icon=1&color=4)](https://visitcount.itsvg.in)
+
 
 ---
 
@@ -18,13 +21,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AIstar008&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AIstar008&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 

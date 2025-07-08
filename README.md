@@ -1,7 +1,7 @@
 # <div align="center">🚀 Welcome to My Digital Universe 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alen+Thomas;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;AI%2FML+Developer+%F0%9F%A4%96;Android+Developer+%F0%9F%93%B1;Full-Stack+Learner+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alen+Thomas;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <div align="center">

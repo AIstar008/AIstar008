@@ -136,15 +136,28 @@
 <div align="center">
 <table>
 <tr>
+
+<td align="center">
 <td align="center">
 <h3>📈 GitHub Statistics</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIstar008&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+
+<img
+height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIstar008&theme=radical"
+alt="GitHub Statistics"/>
+
 </td>
-  
+
 <td align="center">
 <h3>🏅 Languages</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar008&layout=compact&theme=radical&hide_border=true" alt="Technology Stack" />
+
+<img
+height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIstar008&theme=radical"
+alt="Most Used Languages"/>
+
 </td>
+
 </tr>
 </table>
 </div>
@@ -159,12 +172,51 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar008&theme=nightowl&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
+<div align="center">
+<h3>📊 Contribution Heatmap</h3>
+<img src="https://ghchart.rshah.org/58A6FF/AIstar008" alt="GitHub Contribution Heatmap" />
+</div>
+
 ---
 
 ## <div align="center">🏆 ACHIEVEMENT GALLERY 🏆</div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AIstar008&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+<table>
+<tr>
+
+<td align="center">
+
+<img
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIstar008&theme=radical"
+alt="Profile Details"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AIstar008&theme=radical&utcOffset=5.5"
+alt="Productive Time"/>
+
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIstar008&theme=radical"
+alt="Most Commit Language"/>
+
+</td>
+
+</tr>
+
+</table>
+
 </div>
 
 ---
@@ -285,6 +337,32 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=6000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=%22Innovation+is+seeing+what+everybody+has+seen...%22;%22...and+thinking+what+nobody+else+has+thought.%22;%22Code+is+poetry%2C+architecture+is+art%2C+impact+is+everything.%22)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## <div align="center">🌌 DEVELOPER METRICS 🌌</div>
+
+<div align="center">
+
+<img
+width="30%"
+src="./github-metrics.svg"
+alt="Developer Metrics"/>
+
+</div>
+
+---
+
+## <div align="center">🌃 MY GITHUB SKYLINE 🌃</div>
+
+<div align="center">
+
+<img
+width="70%"
+src="https://raw.githubusercontent.com/AIstar008/AIstar008/main/assets/github-skyline.png"
+alt="GitHub Skyline"/>
 
 </div>
 

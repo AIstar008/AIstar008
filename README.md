@@ -80,7 +80,8 @@
 
 [![Email](https://img.shields.io/badge/Convey_on_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E57373)](mailto:alenthomas1809@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=66B2FF)](https://www.linkedin.com/in/alen-thomas-3558bb187/)
-[![Portfolio](https://img.shields.io/badge/View_My_Work-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/AIstar008)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000)](https://portfolio-website-alpha-nine-69.vercel.app/)
+[![GitHub](https://img.shields.io/badge/View_My_Work-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/AIstar008)
 
 </div>
 
@@ -230,6 +231,12 @@ alt="Most Commit Language"/>
 ---
 
 ## <div align="center">🚀 PROJECT PORTFOLIO 🚀</div>
+
+<div align="center">
+
+🌐 **Explore the full interactive experience:** [portfolio-website-alpha-nine-69.vercel.app](https://portfolio-website-alpha-nine-69.vercel.app/)
+
+</div>
 
 <table align="center" width="100%">
 <tr>
@@ -399,4 +406,5 @@ alt="GitHub Skyline"/>
 <div align="center">
 <h2>🌟 "The best time to plant a tree was 20 years ago. The second best time is now." 🌟</h2>
 <h3>⭐ If you found value here, please star my repositories and let's build the future together! ⭐</h3>
+<h3>🚀 <a href="https://portfolio-website-alpha-nine-69.vercel.app/">Visit My Portfolio</a> 🚀</h3>
 </div>
